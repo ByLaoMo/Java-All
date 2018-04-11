@@ -7,4 +7,3 @@
 项目联系：root@laomo.io<br/>
 项目网址：<a href="https://laomo.io" target="_blank">https://laomo.io</a>
 
-注：项目可免费分享修改使用，如愿意请首页加上该项目链接，谢谢！ 
