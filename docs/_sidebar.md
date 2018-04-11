@@ -3,6 +3,11 @@
   - [友链设置](/plugin)
   - [常见问题](/common-problem)
 
+- Java 应用
+  - [Log4J 入门](/log4j_00)
+    - [Log4J Perporty 配置](/log4j_01)
+    - [Log4J Xml 配置](/log4j_02)
+
 - 进阶设定
   - [独立页面](/page)
   - [评论系统](/comment)
