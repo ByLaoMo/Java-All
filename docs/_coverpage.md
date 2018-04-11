@@ -1,8 +1,8 @@
-# Handsome Theme <small>4.2 Pro</small>
+# Java Technical <small>1.0 Pro</small>
 
-艳惊四方，性能飞跃
+分享知识，分享生活
 
 
-[联系作者](https://www.ihewro.com/)
+[联系作者](https://laomo.io)
 [开始使用](/start)
 

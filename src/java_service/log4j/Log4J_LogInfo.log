@@ -1,0 +1,6 @@
+TRACE main java_service.log4j.Log4J_00 - 跟踪信息
+DEBUG main java_service.log4j.Log4J_00 - 调试信息
+INFO main java_service.log4j.Log4J_00 - 标准信息级别输出.
+WARN main java_service.log4j.Log4J_00 - 警告信息
+ERROR main java_service.log4j.Log4J_00 - 错误信息
+FATAL main java_service.log4j.Log4J_00 - 致命信息
