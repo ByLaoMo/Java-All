@@ -1,4 +1,4 @@
-# Java Technical <small>1.0 Pro</small>
+# Java Technical Docs<small>1.0 Pro</small>
 
 分享知识，分享生活
 
